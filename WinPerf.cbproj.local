@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-11-28 23:20:50.464.cpp,E:\wzmcode\Winperf\PassWord.cpp=</Transaction>
+    <Transaction>2010-11-28 23:20:50.464.dfm,E:\wzmcode\Winperf\PassWord.dfm=</Transaction>
+    <Transaction>2010-12-04 21:27:31.105.cpp,E:\wzmcode\Winperf\Unit1.cpp=E:\wzmcode\Winperf\Utility.cpp</Transaction>
+    <Transaction>2010-12-04 21:27:31.149.h,E:\wzmcode\Winperf\Unit1.h=E:\wzmcode\Winperf\Utility.h</Transaction>
+  </Transactions>
+</BorlandProject>
